@@ -8,9 +8,9 @@
 
   ## My Schedual
 
-  - Monday
-     * 10:00 - COMP1151-0001 - IT Essentials
+  * Monday
+     - 10:00 - COMP1151-0001 - IT Essentials
   - Tuesday
-     * 6:00 - COMP1238-0001 - Data Management
-  - Wednesday
-     * 2:00 - COMP1236-0001 - Fund of Computing Logic
+     - 6:00 - COMP1238-0001 - Data Management
+  * Wednesday
+     - 2:00 - COMP1236-0001 - Fund of Computing Logic
